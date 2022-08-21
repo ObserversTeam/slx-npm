@@ -1,7 +1,7 @@
 {
   "name": "@observersteam/slx",
   "version": "1.0.0",
-  "description": "",
+  "description": "An npm package that builds electron apps with popular jsframeworks",
   "main": "index.js",
   "type": "module",
   "bin": "./index.js",
