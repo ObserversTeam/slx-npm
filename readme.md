@@ -3,7 +3,7 @@
 run the following to download the package
 
 ```
-npm install -g @observersteam/slx
+npm i -g @observersteam/slx
 ```
 
 after installing the package and navigating to the directory you want to create your project in run
